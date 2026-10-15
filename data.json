@@ -1,0 +1,74 @@
+{
+  "source": {
+    "url": "https://factsfigures.cuhk.edu.hk/",
+    "libraryFiguresAsOf": "3 March 2026"
+  },
+  "library": {
+    "books": 2621974,
+    "ebooks": 6821029,
+    "seats": 4480,
+    "preciousAncientBooks": 15,
+    "asOf": "3 March 2026",
+    "branches": [
+      {
+        "en": "University Library",
+        "zh": "大學圖書館"
+      },
+      {
+        "en": "Chung Chi College Elisabeth Luce Moore Library",
+        "zh": "崇基學院牟路思怡圖書館"
+      },
+      {
+        "en": "New Asia College Ch'ien Mu Library",
+        "zh": "新亞書院錢穆圖書館"
+      },
+      {
+        "en": "United College Wu Chung Library",
+        "zh": "聯合書院胡忠圖書館"
+      },
+      {
+        "en": "Li Ping Medical Library",
+        "zh": "李炳醫學圖書館"
+      },
+      {
+        "en": "Lee Quo Wei Law Library",
+        "zh": "利國偉法律圖書館"
+      },
+      {
+        "en": "Architecture Library",
+        "zh": "建築學圖書館"
+      }
+    ]
+  },
+  "research": {
+    "outputItems": 7270,
+    "patentsGranted": 349
+  },
+  "funding": {
+    "total": 1270.06,
+    "period": "2023-24",
+    "unit": "HK$ million"
+  },
+  "rankings": [
+    {
+      "name": "QS World University Rankings 2025",
+      "rank": "36",
+      "icon": "logo-qs.png"
+    },
+    {
+      "name": "Times Higher Education World University Rankings 2025",
+      "rank": "44",
+      "icon": "logo-the.png"
+    },
+    {
+      "name": "Best Global Universities Rankings 2025",
+      "rank": "53",
+      "icon": "logo-usnews.png"
+    },
+    {
+      "name": "Academic Ranking of World Universities 2024",
+      "rank": "101-150",
+      "icon": "logo-arwu.png"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Ranking badge icons in this package were cropped from the Microsoft Copilot-generated dashboard preview, so the files are self-contained and do not hotlink external sites.
+
+Web references checked:
+- QS official logo usage guidelines: https://support.qs.com/hc/en-gb/articles/27713381687836-QS-World-University-Rankings-logo-usage-guidelines
+- THE official brand guidelines: https://www.timeshighereducation.com/content/brand-guidelines
+- U.S. News Best Global Universities badge: https://www.usnews.com/static/img/badge-best-global-universities.svg
+- ShanghaiRanking / ARWU: https://www.shanghairanking.com/
+
+Logos and ranking names may be trademarks of their respective owners. Verify institutional permission before public deployment.
