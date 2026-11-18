@@ -1,74 +1,120 @@
 {
   "source": {
     "url": "https://factsfigures.cuhk.edu.hk/",
-    "libraryFiguresAsOf": "3 March 2026"
+    "updated": "2026"
   },
   "library": {
-    "books": 2621974,
-    "ebooks": 6821029,
-    "seats": 4480,
+    "books": 2645301,
+    "ebooks": 7061123,
+    "seats": 4557,
     "preciousAncientBooks": 15,
-    "asOf": "3 March 2026",
-    "branches": [
-      {
-        "en": "University Library",
-        "zh": "大學圖書館"
-      },
-      {
-        "en": "Chung Chi College Elisabeth Luce Moore Library",
-        "zh": "崇基學院牟路思怡圖書館"
-      },
-      {
-        "en": "New Asia College Ch'ien Mu Library",
-        "zh": "新亞書院錢穆圖書館"
-      },
-      {
-        "en": "United College Wu Chung Library",
-        "zh": "聯合書院胡忠圖書館"
-      },
-      {
-        "en": "Li Ping Medical Library",
-        "zh": "李炳醫學圖書館"
-      },
-      {
-        "en": "Lee Quo Wei Law Library",
-        "zh": "利國偉法律圖書館"
-      },
-      {
-        "en": "Architecture Library",
-        "zh": "建築學圖書館"
-      }
-    ]
+    "asOf": "30 June 2026"
   },
   "research": {
-    "outputItems": 7270,
-    "patentsGranted": 349
+    "outputItems": 11885,
+    "patentsGranted": 425,
+    "period": "2024-2025"
   },
   "funding": {
-    "total": 1270.06,
-    "period": "2023-24",
-    "unit": "HK$ million"
+    "total": 2567.68,
+    "period": "2025-2026",
+    "unit": "HK$ million",
+    "rgcUgcAmount": 582.71,
+    "rgcUgcPercent": 22.69,
+    "asOf": "30 June 2025"
   },
   "rankings": [
     {
-      "name": "QS World University Rankings 2025",
-      "rank": "36",
-      "icon": "logo-qs.png"
+      "name": "U.S. News Best Global Universities - Hong Kong",
+      "rank": "1",
+      "year": "2026-2027",
+      "icon": "rank-usnews.png"
     },
     {
-      "name": "Times Higher Education World University Rankings 2025",
-      "rank": "44",
-      "icon": "logo-the.png"
+      "name": "ARWU - Hong Kong",
+      "rank": "1",
+      "year": "2026",
+      "icon": "rank-arwu.png"
     },
     {
-      "name": "Best Global Universities Rankings 2025",
-      "rank": "53",
-      "icon": "logo-usnews.png"
+      "name": "QS Asia University Rankings",
+      "rank": "5",
+      "year": "2027",
+      "icon": "rank-qs-asia.png"
     },
     {
-      "name": "Academic Ranking of World Universities 2024",
-      "rank": "101-150",
-      "icon": "logo-arwu.png"
+      "name": "U.S. News Best Global Universities - Asia",
+      "rank": "5",
+      "year": "2026-2027",
+      "icon": "rank-usnews.png"
+    },
+    {
+      "name": "THE Asia University Rankings",
+      "rank": "10",
+      "year": "2026",
+      "icon": "rank-the.png"
+    },
+    {
+      "name": "QS World University Rankings",
+      "rank": "18",
+      "year": "2027",
+      "icon": "rank-qs.png"
+    },
+    {
+      "name": "U.S. News Best Global Universities - Worldwide",
+      "rank": "28",
+      "year": "2026-2027",
+      "icon": "rank-usnews.png"
+    },
+    {
+      "name": "THE World University Rankings",
+      "rank": "42",
+      "year": "2027",
+      "icon": "rank-the.png"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Headline Analysis with Machine Learning on The Hongkong News",
+      "description": "CUHK Library Digital Scholarship Project",
+      "image": "slide-01-headline.jpg",
+      "url": "https://dsprojects.lib.cuhk.edu.hk/en/"
+    },
+    {
+      "title": "Construction and Application of a Knowledge Graph in Hong Kong Writers and Artists Biographical Database",
+      "description": "CUHK Library Digital Scholarship Project",
+      "image": "slide-02-hkbdb.png",
+      "url": "https://dsprojects.lib.cuhk.edu.hk/en/"
+    },
+    {
+      "title": "(Re-)Mining: An Annotated Bibliography of the Classical Writings of Hong Kong Poets",
+      "description": "CUHK Library Digital Scholarship Project",
+      "image": "slide-03-remining.jpg",
+      "url": "https://dsprojects.lib.cuhk.edu.hk/en/"
+    },
+    {
+      "title": "Author Frequency of The Chinese Student Weekly",
+      "description": "CUHK Library Digital Scholarship Project",
+      "image": "slide-04-weekly.png",
+      "url": "https://dsprojects.lib.cuhk.edu.hk/en/"
+    },
+    {
+      "title": "Archive of 20th Century Cantonese Chanting in Hong Kong",
+      "description": "CUHK Library Digital Scholarship Project",
+      "image": "slide-05-cantonese.jpg",
+      "url": "https://dsprojects.lib.cuhk.edu.hk/en/"
+    },
+    {
+      "title": "Text Analysis and Visualisation of The Observatory Review",
+      "description": "CUHK Library Digital Scholarship Project",
+      "image": "slide-06-observatory.png",
+      "url": "https://dsprojects.lib.cuhk.edu.hk/en/"
+    },
+    {
+      "title": "Hong Kong Guanyin and Buddhist Visual Culture Project",
+      "description": "CUHK Library Digital Scholarship Project",
+      "image": "slide-07-buddhist.jpg",
+      "url": "https://dsprojects.lib.cuhk.edu.hk/en/"
     }
   ]
 }
